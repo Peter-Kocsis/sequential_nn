@@ -1,0 +1,14 @@
+
+.ipynb_checkpoints/
+
+.idea/
+
+temperature_model_nn_logs/
+
+models/
+
+stock_prediction_model_nn_logs/
+
+tpa_lstm_model_logs/
+
+**/__pycache__/
