@@ -24,6 +24,19 @@ You can find a base class `SequentialDataBatchSampler` for sampling subsequences
 ### DataSet
 You can find a base class `SequentialDataset` for sequential datasets
 
+### Logging
+The project uses [Tensorboard](https://www.tensorflow.org/tensorboard), some sample images about the logs can be seen below. 
+
+**Tensorboard:**
+![tensorboard](img/tensorboard.png)
+
+**Confusion matrix:**
+
+![confusion](img/confusion.png)
+
+**Prediction plot:**
+
+![prediction](img/prediction.png)
 
 ## References
 * [Deep Demand Forecast Models](https://github.com/jingw2/demand_forecast)
